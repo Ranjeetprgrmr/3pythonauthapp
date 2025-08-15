@@ -35,7 +35,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['*']
 
-SITE_ID = 2
+SITE_ID = None
 
 INSTALLED_APPS = [
     "whitenoise.runserver_nostatic",
